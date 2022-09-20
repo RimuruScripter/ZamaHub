@@ -1,1 +1,2 @@
 game:GetService('Players').LocalPlayer:Kick('Join Discord Zama Hub Now / https://discord.gg/Mw3ykVBaTV')
+setclipboard("https://https://discord.gg/Mw3ykVBaTV")
